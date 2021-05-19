@@ -1,0 +1,21 @@
+body{
+     font-family: "Roboto", Arial, Helvetica, sans-serif;
+     
+}
+.precio{
+    font-size: 18px;
+}
+.descuento{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
+main{
+    width: 90%;
+}
+.producto{
+    margin: 10px;
+    border-top: solid 1 px #ebebeb;
+    padding: 15px;
+}
